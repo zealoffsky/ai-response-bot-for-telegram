@@ -7,8 +7,8 @@ class Settings(BaseSettings):
     api_hash: str
     openai_key: str
 
-if os.path.exists(".env"):
-    load_dotenv(".env")
+#if os.path.exists(".env"):
+load_dotenv(".env")
 
 settings = Settings()
 
