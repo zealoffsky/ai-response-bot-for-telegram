@@ -1,4 +1,4 @@
-# OpenAI_Response_bot_For_Telegram by zealoffsky
+# ai-response-bot-for-telegram by zealoffsky [Deprecated]
 
 Overview
 This Python program creates a Telegram chat bot powered by the OpenAI API to automatically respond to messages in a Telegram chat. 
